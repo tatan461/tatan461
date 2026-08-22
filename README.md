@@ -40,4 +40,4 @@ Cloud Engineer focused on AWS infrastructure automation, serverless system desig
 ### Contact & Links
 
 * **LinkedIn:** [www.linkedin.com/in/jonathan-angel-0543b441a](https://www.linkedin.com/in/jonathan-angel-0543b441a)
-* **Email:** [haades461@gmail.com](mailto:jonathan.angel.tech@gmail.com)
+* **Email:** [jonathan.angel.tech@gmail.com](mailto:jonathan.angel.tech@gmail.com)
