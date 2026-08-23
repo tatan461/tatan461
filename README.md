@@ -14,8 +14,8 @@ Cloud Engineer focused on AWS infrastructure automation, serverless system desig
 ---
 
 ### 📜 Certifications & Accreditation
-* **AWS Certified Solutions Architect – Associate** — Amazon Web Services
-* **AWS Certified AI Practitioner** — Amazon Web Services
+* **[AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/acb43683-5fc4-49c8-821f-7a49d90f2c74):**  — Amazon Web Services (2026)
+* **[AWS Certified AI Practitioner**](https://www.credly.com/badges/4bea0010-dd3b-4433-be2c-d2b46f1915d0):** — Amazon Web Services (2026)
 
 ---
 
