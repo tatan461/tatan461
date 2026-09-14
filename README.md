@@ -9,6 +9,8 @@ Cloud Engineer focused on AWS infrastructure automation, serverless system desig
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -16,6 +18,7 @@ Cloud Engineer focused on AWS infrastructure automation, serverless system desig
 ### 📜 Certifications & Accreditation
 * **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/acb43683-5fc4-49c8-821f-7a49d90f2c74):**  — Amazon Web Services (2026)
 * **[AWS Certified AI Practitioner](https://www.credly.com/badges/4bea0010-dd3b-4433-be2c-d2b46f1915d0):** — Amazon Web Services (2026)
+* **[EF SET English Certificate](https://cert.efset.org/wkopgM):** —EF SET (2026)
 
 ---
 
