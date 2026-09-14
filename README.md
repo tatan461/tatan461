@@ -33,7 +33,7 @@ Cloud Engineer focused on AWS infrastructure automation, serverless system desig
 
 ### 🚀 Infrastructure Architecture Portfolio
 * **[AWS Bedrock Serverless API & FinOps Cost Tracker](https://github.com/tatan461/aws-bedrock-finops-api):** Serverless REST API integrating Amazon Bedrock (Amazon Nova Micro) with real-time FinOps telemetry. Tracks input/output tokens, invocation latency, and calculated costs persisted directly to Amazon DynamoDB using Terraform.
-* **[AWS High-Availability Multi-AZ Compute Stack](https://github.com/tatan461/aws-terraform-high-availability):** Modular IaC provisioning a fault-tolerant AWS network topology across multiple Availability Zones. Integrates an Application Load Balancer (ALB), Auto Scaling Groups (ASG), and cost-optimized ARM64 AWS Graviton compute instances.
+* **[AWS EKS GitOps & Continuous Delivery](https://github.com/tatan461/terraform-aws-eks-gitops):** Production-grade Amazon EKS cluster provisioned via Terraform, featuring managed node groups, custom VPC networking, and automated GitOps continuous deployment powered by ArgoCD.
 * **[AWS 3-Tier Event-Driven Serverless Application](https://github.com/tatan461/aws-serverless-3tier-architecture):** A fully managed, decoupled serverless ecosystem using Amazon S3, API Gateway, AWS Lambda compute engines, and transactional records in Amazon DynamoDB.
 * **[AWS Enterprise Security & Core Governance Boundary](https://github.com/tatan461/aws-enterprise-governance):** A foundational corporate compliance framework establishing encryption boundaries with AWS KMS, CloudWatch centralized log ingestion, and proactive alert routing via Amazon SNS.
 
