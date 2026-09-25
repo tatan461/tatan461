@@ -4,9 +4,11 @@
 
 ### Junior Cloud Engineer | AWS Certified Solutions Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-angel-gonzalez-0543b441a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-angel-gonzalez-0543b441a/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.angel.tech@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Spain-FFC400?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white)](https://tatan461.github.io/cloud-resume-ai/)
+[![Location](https://img.shields.io/badge/Based%20in-Spain-FFC400?style=for-the-badge&logo=googlemaps&logoColor=black)](#)
+[![Open to Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-4CAF50?style=for-the-badge&logo=nginx&logoColor=white)](#)
 
 </div>
 
@@ -16,13 +18,17 @@
 
 Aspiring Cloud Engineer specialized in AWS infrastructure automation, serverless architecture, container orchestration, and FinOps cost optimization. Experienced in designing and provisioning secure, production-style, modular environments using Infrastructure as Code with Terraform. Actively building a portfolio of real-world AWS projects that demonstrate hands-on proficiency in cloud architecture, DevOps practices, and cost-conscious engineering, with a strong focus on delivering reliable, well-documented, and reproducible infrastructure.
 
+Open to junior Cloud Engineer, Cloud Support, and DevOps roles, remote or hybrid, within Spain or internationally.
+
 ---
 
 ## Certifications
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![EF SET English](https://img.shields.io/badge/EF%20SET-English%20Certificate-2E7D32?style=flat-square&logo=googletranslate&logoColor=white)](#)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/acb43683-5fc4-49c8-821f-7a49d90f2c74)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4bea0010-dd3b-4433-be2c-d2b46f1915d0)
+[![EF SET English](https://img.shields.io/badge/EF%20SET-English%20Certificate-2E7D32?style=flat-square&logo=googletranslate&logoColor=white)](https://www.efset.org/)
+
+*Click each badge to view the verified credential.*
 
 ---
 
@@ -69,13 +75,6 @@ Aspiring Cloud Engineer specialized in AWS infrastructure automation, serverless
 
 ## Featured Projects
 
-### [Cloud Resume Challenge - AI Edition](https://github.com/tatan461/cloud-resume-ai)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Cloud Resume Challenge built on AWS, extended with a Bedrock-powered AI assistant embedded in the site. Serverless architecture using S3, CloudFront, Lambda, DynamoDB, and API Gateway, fully designed and provisioned with Terraform, with the frontend live via GitHub Pages.
-
 ### [EKS Autoscaling & Observability Stack](https://github.com/tatan461/eks-autoscaling-observability)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -98,11 +97,17 @@ Cost-conscious backup and disaster recovery pipeline built with Python and Boto3
 
 Serverless FinOps dashboard automating EC2 rightsizing, Graviton migration recommendations, and idle-resource reporting using AWS Cost Explorer and Compute Optimizer. Deployed end-to-end with Terraform and GitHub Actions using OIDC for secure, keyless authentication.
 
+### [Cloud Resume Challenge - AI Edition](https://github.com/tatan461/cloud-resume-ai)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[Live demo](https://tatan461.github.io/cloud-resume-ai/) &nbsp;|&nbsp; Cloud Resume Challenge built on AWS, extended with a Bedrock-powered AI assistant embedded in the site. Serverless architecture using S3, CloudFront, Lambda, DynamoDB, and API Gateway, fully designed and provisioned with Terraform, with the frontend live via GitHub Pages.
+
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--angel--gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-angel-gonzalez-0543b441a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--angel--gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-angel-gonzalez-0543b441a/)
 [![Email](https://img.shields.io/badge/Email-jonathan.angel.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan.angel.tech@gmail.com)
-
-Open to junior Cloud Engineer, Cloud Support, and DevOps roles, remote or hybrid.
+[![Resume](https://img.shields.io/badge/Resume-Cloud%20Resume%20Challenge-2E7D32?style=flat-square&logo=readdotcv&logoColor=white)](https://tatan461.github.io/cloud-resume-ai/)
