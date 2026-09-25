@@ -69,6 +69,13 @@ Aspiring Cloud Engineer specialized in AWS infrastructure automation, serverless
 
 ## Featured Projects
 
+### [Cloud Resume Challenge - AI Edition](https://github.com/tatan461/cloud-resume-ai)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Cloud Resume Challenge built on AWS, extended with a Bedrock-powered AI assistant embedded in the site. Serverless architecture using S3, CloudFront, Lambda, DynamoDB, and API Gateway, fully designed and provisioned with Terraform, with the frontend live via GitHub Pages.
+
 ### [EKS Autoscaling & Observability Stack](https://github.com/tatan461/eks-autoscaling-observability)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -91,19 +98,16 @@ Cost-conscious backup and disaster recovery pipeline built with Python and Boto3
 
 Serverless FinOps dashboard automating EC2 rightsizing, Graviton migration recommendations, and idle-resource reporting using AWS Cost Explorer and Compute Optimizer. Deployed end-to-end with Terraform and GitHub Actions using OIDC for secure, keyless authentication.
 
-### [Cloud Resume Challenge - AI Edition](https://github.com/tatan461/cloud-resume-ai)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Cloud Resume Challenge built on AWS, extended with a Bedrock-powered AI assistant embedded in the site. Serverless architecture using S3, CloudFront, Lambda, DynamoDB, and API Gateway, fully designed and provisioned with Terraform, with the frontend live via GitHub Pages.
-
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatan461&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatan461&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tatan461&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatan461&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" width="35%" />
+
+</div>
 
 ---
 
