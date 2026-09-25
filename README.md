@@ -100,17 +100,6 @@ Serverless FinOps dashboard automating EC2 rightsizing, Graviton migration recom
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tatan461&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatan461&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" width="35%" />
-
-</div>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--angel--gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-angel-gonzalez-0543b441a)
