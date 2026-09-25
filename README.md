@@ -1,48 +1,115 @@
-# Jonathan Ángel Gonzalez | Junior Cloud Engineer & AWS Certified Specialist
+<div align="center">
 
-Aspiring Cloud Engineer focused on AWS infrastructure automation, serverless system design, Generative AI integrations, and FinOps cost-optimization frameworks. I specialize in provisioning secure, modular environments using Infrastructure as Code (IaC) with Terraform.
+# Jonathan Angel Gonzalez
 
----
+### Junior Cloud Engineer | AWS Certified Solutions Architect
 
-### 🛠️ Tech Stack & Core Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Istio](https://img.shields.io/badge/istio-%23466BB0.svg?style=for-the-badge&logo=istio&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%252083FA.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-angel-gonzalez-0543b441a)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.angel.tech@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Spain-FFC400?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-### 📜 Certifications & Accreditation
-* **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/acb43683-5fc4-49c8-821f-7a49d90f2c74):**  — Amazon Web Services (2026)
-* **[AWS Certified AI Practitioner](https://www.credly.com/badges/4bea0010-dd3b-4433-be2c-d2b46f1915d0):** — Amazon Web Services (2026)
-* **[EF SET English Certificate](https://cert.efset.org/wkopgM):** — EF SET (2026)
+## Profile
+
+Aspiring Cloud Engineer specialized in AWS infrastructure automation, serverless architecture, container orchestration, and FinOps cost optimization. Experienced in designing and provisioning secure, production-style, modular environments using Infrastructure as Code with Terraform. Actively building a portfolio of real-world AWS projects that demonstrate hands-on proficiency in cloud architecture, DevOps practices, and cost-conscious engineering, with a strong focus on delivering reliable, well-documented, and reproducible infrastructure.
 
 ---
 
-### 🎓 Technical Core Competencies
-* **Cloud Architecture:** Amazon Web Services (AWS)
-* **Generative AI & FinOps:** Amazon Bedrock Integration (Nova Micro LLM), Prompt Processing, Token Telemetry & Real-Time Cost Tracking
-* **Infrastructure as Code:** Terraform CLI (Decoupled Module Design, HCL Scripting)
-* **Design Methodologies:** High-Availability Multi-AZ Topologies, Event-Driven Serverless (3-Tier), FinOps Compute Mapping
-* **Security & Monitoring:** Customer Managed Keys (KMS), IAM Least Privilege Isolation, CloudWatch Centralized Telemetry, Service Mesh mTLS
+## Certifications
+
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+[![EF SET English](https://img.shields.io/badge/EF%20SET-English%20Certificate-2E7D32?style=flat-square&logo=googletranslate&logoColor=white)](#)
 
 ---
 
-### 🚀 Infrastructure Architecture Portfolio
-* **[AWS Bedrock Serverless API & FinOps Cost Tracker](https://github.com/tatan461/aws-bedrock-finops-api):** Serverless REST API integrating Amazon Bedrock (Amazon Nova Micro) with real-time FinOps telemetry. Tracks input/output tokens, invocation latency, and calculated costs persisted directly to Amazon DynamoDB using Terraform.
-* **[AWS EKS Service Mesh & Observability Stack](https://github.com/tatan461/terraform-eks-service-mesh-observability):** Production-grade Amazon EKS cluster provisioned via Terraform, featuring strict mTLS service mesh routing with Istio and end-to-end metrics monitoring using Prometheus and Grafana.
-* **[AWS EKS GitOps & Continuous Delivery](https://github.com/tatan461/terraform-aws-eks-gitops):** Production-grade Amazon EKS cluster provisioned via Terraform, featuring managed node groups, custom VPC networking, and automated GitOps continuous deployment powered by ArgoCD.
-* **[AWS 3-Tier Event-Driven Serverless Application](https://github.com/tatan461/aws-serverless-3tier-architecture):** A fully managed, decoupled serverless ecosystem using Amazon S3, API Gateway, AWS Lambda compute engines, and transactional records in Amazon DynamoDB.
+## Tech Stack
 
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**DevOps, GitOps & Observability**
+
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
-### 📬 Contact & Links
-* **LinkedIn:** [linkedin.com/in/jonathan-angel-0543b441a](https://www.linkedin.com/in/jonathan-angel-0543b441a)
-* **Email:** [jonathan.angel.tech@gmail.com](mailto:jonathan.angel.tech@gmail.com)
+## Core Competencies
+
+- **Cloud Architecture:** Design and deployment of scalable, highly available solutions on Amazon Web Services (AWS)
+- **Container Orchestration:** Amazon EKS, Kubernetes, Helm, Horizontal Pod Autoscaling
+- **Service Mesh & Observability:** Istio (mTLS), Prometheus, Grafana, Amazon CloudWatch
+- **GitOps & CI/CD:** ArgoCD, GitHub Actions with OIDC, fully automated deployment pipelines
+- **Generative AI & FinOps:** Amazon Bedrock integration (Nova Micro LLM), prompt processing, token telemetry, and real-time cost tracking
+- **Infrastructure as Code:** Terraform CLI, decoupled and reusable module design, HCL scripting
+- **Cost Optimization:** EC2 rightsizing, Graviton migration strategy, AWS Cost Explorer and Compute Optimizer automation
+- **Data Protection & Resilience:** Automated backup and disaster recovery pipelines with integrity-verified restore workflows
+- **Security & Governance:** Customer Managed Keys (KMS), IAM least-privilege design, centralized CloudWatch telemetry, mTLS service mesh enforcement
+
+---
+
+## Featured Projects
+
+### [EKS Autoscaling & Observability Stack](https://github.com/tatan461/eks-autoscaling-observability)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+Production-style FastAPI application deployed to Kubernetes with Helm, featuring Horizontal Pod Autoscaling under simulated load and a complete observability stack built with Prometheus and Grafana. Infrastructure fully provisioned with Terraform and deployed through a GitHub Actions CI/CD pipeline.
+
+### [AWS Automated Backup & Disaster Recovery Pipeline](https://github.com/tatan461/aws-automated-backup-pipeline)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+Cost-conscious backup and disaster recovery pipeline built with Python and Boto3, using Amazon S3 and KMS encryption. Fully provisioned with Terraform and featuring integrity-verified restore workflows to guarantee recoverable, tamper-proof backups.
+
+### [AWS Cost Optimization Dashboard](https://github.com/tatan461/aws-cost-optimization-dashboard)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Serverless FinOps dashboard automating EC2 rightsizing, Graviton migration recommendations, and idle-resource reporting using AWS Cost Explorer and Compute Optimizer. Deployed end-to-end with Terraform and GitHub Actions using OIDC for secure, keyless authentication.
+
+### [Cloud Resume Challenge - AI Edition](https://github.com/tatan461/cloud-resume-ai)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Cloud Resume Challenge built on AWS, extended with a Bedrock-powered AI assistant embedded in the site. Serverless architecture using S3, CloudFront, Lambda, DynamoDB, and API Gateway, fully designed and provisioned with Terraform, with the frontend live via GitHub Pages.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatan461&show_icons=true&theme=default&hide_title=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatan461&layout=compact)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--angel--gonzalez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-angel-gonzalez-0543b441a)
+[![Email](https://img.shields.io/badge/Email-jonathan.angel.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonathan.angel.tech@gmail.com)
+
+Open to junior Cloud Engineer, Cloud Support, and DevOps roles, remote or hybrid.
